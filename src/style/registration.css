@@ -1,0 +1,9 @@
+.signup {
+  width: 70%;
+  height: 90vh;
+  margin: 5vh auto;
+  background-color: pink;
+}
+.textfield {
+  width: 300px;
+}

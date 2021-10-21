@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": 101,
+      "fname": "Kashyap",
+      "lname": "Patel",
+      "username": "Lusifer",
+      "email": "k@g.com",
+      "password": "123"
+    },
+    {
+      "id": 102,
+      "fname": "John",
+      "lname": "Doe",
+      "username": "Lusi",
+      "email": "j@g.com",
+      "password": "123"
+    },
+    {
+      "fname": "ram",
+      "lname": "shyam",
+      "username": "kuch",
+      "email": "kuch@g.com",
+      "password": "321",
+      "id": 104
+    }
+  ]
+}
